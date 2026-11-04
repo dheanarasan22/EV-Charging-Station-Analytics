@@ -39,17 +39,17 @@ EV-Charging-Station-Analytics/
 ### 1. Executive Overview
 High-level KPIs: total charging sessions, total energy consumed, session trend, average station load, average renewable energy share, waiting time and charging duration.
 
-![Executive Overview](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/01_executive_overview.png)
+([Executive_Overview.png](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/01_executive_overview.png))
 
 ### 2. Period & Performance Comparison
 Week-over-week session comparison, average charging duration and waiting time by day of week, and average charging demand by time slot (Peak vs Off-Peak).
 
-![Period & Performance Comparison](screenshots/period_performance.png)
+([period_performance.png](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/02_period_performance.png))
 
 ### 3. Station Operations & Queue Analysis
 Queue length by station, sessions by charging priority, plus optimization reward by traffic density, charging power by vehicle type and electricity price by time slot.
 
-![Station Operations](screenshots/station_operations.png)
+![Station Operations](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/03_station_operations.png)
 
 ### 4. Vehicle & Battery Charging Behavior
 State of charge (SOC) at arrival and departure, SOC gained, battery capacity and energy per session, including how arrival SOC bands drive energy use and charging time.
