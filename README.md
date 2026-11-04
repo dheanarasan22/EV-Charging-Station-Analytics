@@ -149,5 +149,3 @@ Power BI report design · DAX measures · data modeling · calculated columns an
 
 **SALAI DHEAN ARASAN S**
 [LinkedIn](https://www.linkedin.com/) · [GitHub](https://github.com/)
-
-> Replace the author details above before publishing.
