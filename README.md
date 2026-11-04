@@ -39,7 +39,7 @@ EV-Charging-Station-Analytics/
 ### 1. Executive Overview
 High-level KPIs: total charging sessions, total energy consumed, session trend, average station load, average renewable energy share, waiting time and charging duration.
 
-![Executive Overview](screenshots/executive_overview.png)
+![Executive Overview](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/01_executive_overview.png)
 
 ### 2. Period & Performance Comparison
 Week-over-week session comparison, average charging duration and waiting time by day of week, and average charging demand by time slot (Peak vs Off-Peak).
