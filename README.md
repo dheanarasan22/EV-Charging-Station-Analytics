@@ -49,17 +49,17 @@ Week-over-week session comparison, average charging duration and waiting time by
 ### 3. Station Operations & Queue Analysis
 Queue length by station, sessions by charging priority, plus optimization reward by traffic density, charging power by vehicle type and electricity price by time slot.
 
-![Station Operations](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/03_station_operations.png)
+([Station_Operations.png](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/03_station_operations.png))
 
 ### 4. Vehicle & Battery Charging Behavior
 State of charge (SOC) at arrival and departure, SOC gained, battery capacity and energy per session, including how arrival SOC bands drive energy use and charging time.
 
-![Vehicle & Battery Behavior](screenshots/vehicle_battery_behavior.png)
+([vehicle_battery_behavior.png](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/04_vehicle_battery_behavior.png))
 
 ### 5. Key Insights & Recommendations
 Live, measure-driven insight cards comparing Peak and Off-Peak, plus recommended actions.
 
-![Key Insights](screenshots/key_insights.png)
+([key_insights.png](https://github.com/dheanarasan22/EV-Charging-Station-Analytics/blob/main/05_key_insights.png))
 
 ---
 
